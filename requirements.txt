@@ -1,10 +1,10 @@
 # NEXUS Joshua Kyber-1024 Key Generator
 # Recommended (production-grade, audited path)
 oqs
+cryptography>=42.0.0   # For hybrid X25519 classical key generation
 
 # Fallback for quick testing / development only
 kyber-py
 
-# Optional future enhancements
-# cryptography  # for hybrid classical operations
+# Optional
 # pynacl
