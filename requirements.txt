@@ -1,0 +1,10 @@
+# NEXUS Joshua Kyber-1024 Key Generator
+# Recommended (production-grade, audited path)
+oqs
+
+# Fallback for quick testing / development only
+kyber-py
+
+# Optional future enhancements
+# cryptography  # for hybrid classical operations
+# pynacl
